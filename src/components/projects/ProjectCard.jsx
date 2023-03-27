@@ -16,6 +16,7 @@ const styles = {
   },
   cardStyle: {
     borderRadius: 10,
+    height: 580,
   },
   cardTitleStyle: {
     fontSize: 24,

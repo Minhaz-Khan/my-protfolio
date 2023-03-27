@@ -26,37 +26,41 @@
             ]
         },
         {
-            "image": "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image": "images/projects/ANTIQUE AVENUW.png",
+            "title": "Antique Avenuw",
+            "bodyText": "- Antique Avenuw is a second hand antique product selling website.\n - This website has dashboard for user seller and admin.\n - Every user login by firebase authetication system also pay by stripe",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Minhaz-Khan/antique-aveniue-client-side"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://antique-avenue.web.app/"
                 }
             ],
             "tags": [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "React",
+                "Node.js",
+                "Express.js",
+                "Mongodb",
+                "Tailwindcss",
+                "Firebase",
+                "stripe"
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image": "images/projects/ProsPlum.png",
+            "title": "ProsPlum",
+            "bodyText": "- ProsPlum a plumber service provider website.\n - Users buy the service and also give her personal feedback.\n - Valide users also create his own services",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/Minhaz-Khan/prosplum-client-side"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://prosplum.web.app/"
                 }
             ],
             "tags": [
