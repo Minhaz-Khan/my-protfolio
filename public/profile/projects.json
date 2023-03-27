@@ -1,27 +1,32 @@
 {
-    "projects" : [
+    "projects": [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image": "images/projects/HeavenlyCapture.png",
+            "title": "Heavenly Capture",
+            "bodyText": "- Heavenly Capture web application made in React\n -  Fully Functional Website and also it has Live chat option.\n - DashBoard an Payment option",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/Minhaz-Khan/Heavenly-capture-client-side"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://heavenlycapture-c91db.web.app/"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "React",
-                "Portfolio",
-                "JavaScript"
+                "Node.js",
+                "Express.js",
+                "Mongodb",
+                "Tailwindcss",
+                "Firebase",
+                "stripe",
+                "socket io"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
+            "image": "images/projects/caaring-poster.png",
             "title": "Caaring -  Cab Share App",
             "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
             "links": [
@@ -34,7 +39,7 @@
                     "href": "http://caaring.herokuapp.com"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Python",
                 "Django",
                 "BootStrap",
@@ -45,7 +50,7 @@
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/quiet-hours-poster.jpg",
             "title": "Quiet Hours App",
             "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
             "links": [
@@ -54,7 +59,7 @@
                     "href": "https://github.com/mayankagarwal09/QuietHours-Android"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Java",
                 "Android",
                 "Alarm Manager",
@@ -70,7 +75,7 @@
                     "href": "https://github.com/mayankagarwal09/SecureChatApp"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Java",
                 "Android",
                 "Firebase",
@@ -86,7 +91,7 @@
                     "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Kotlin",
                 "Android",
                 "MVVM",
@@ -106,7 +111,7 @@
                     "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Kotlin",
                 "Android",
                 "MVVM",
@@ -124,7 +129,7 @@
                     "href": "https://github.com/mayankagarwal09/task-tracker-app"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "TypeScript",
                 "Angular 12",
                 "JavaScript"
@@ -139,7 +144,7 @@
                     "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Python",
                 "Django",
                 "SDES",

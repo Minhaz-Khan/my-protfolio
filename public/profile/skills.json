@@ -9,7 +9,7 @@
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
+                    "icon": "images/skills/mongo-db.png",
                     "title": "Mongodb"
                 }
             ]
@@ -18,8 +18,8 @@
             "title": "Frameworks & Technologies",
             "items": [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/ExpressJS-logo.png",
+                    "title": "Express"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -28,6 +28,14 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/bootstrap-stack.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/tailwindCss.png",
+                    "title": "TailwindCss"
                 }
             ]
         },
@@ -35,16 +43,16 @@
             "title": "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/Visual_Studio_Code.png",
+                    "title": "Visual Studio"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/git-bash.png",
+                    "title": "Git_bash"
                 }
             ]
         }
